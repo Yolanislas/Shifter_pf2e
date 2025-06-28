@@ -67,9 +67,8 @@
     {
       "name": "PF2e Shifter Class",
       "sorting": "m",
-      "packs": [
-      "pf2e-shifter-class",
-      "shifter-macros"
+      "packs": ["pf2e-shifter-class"],
+      ["shifter-macros"]
     ],
       "color": "#285D23",
       "folders": []
