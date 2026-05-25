@@ -1,10 +1,11 @@
 {
   "id": "pf2e-yolos-shifter-class",
   "title": "PF2e Yolo's Shifter Class",
-  "version": "1.0.0",
- "compatibility": {
-  "minimum": "14",
+  "version": "2.2.0",
+"compatibility": {
+  "minimum": "12",
   "verified": "14",
+  "maximum": "14"
 },
   "url": "https://github.com/Yolanislas/Shifter_pf2e",
   "manifest": "https://raw.githubusercontent.com/Yolanislas/Shifter_pf2e/refs/heads/main/pf2e-yolos-shifter-class/module.json",
